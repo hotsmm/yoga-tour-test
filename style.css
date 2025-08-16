@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=El+Messiri:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nata+Sans:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body * {
+	font-family: "El Messiri", sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+	max-width: 90%;
+	margin: 0 auto; 
+	padding-bottom: 100px;
+}
+
+h1 {
+	text-align: center;
+	color: #6e3b01;
+	font-size: 3rem;
+}
+
+h2 {
+	text-align: center;
+	color: #32016e;
+	font-size: 2.2rem;
+}
+
+h3 {
+	color: #32016e;
+	font-size: 2rem;
+}
+
+.brown {
+	text-align: center;
+	color: #6e3b01; 
+	font-size: 2rem;
+}
+
+p {
+	text-align: justify;
+	font-size: 20px;
+}
+
+.violet {
+	color: #32016e;
+	font-weight: 700;
+	margin-bottom: 50px;
+}
+
+ul {
+	font-size: 20px;
+}
+
+li {
+	list-style-type: square;
+}
+
+ul ::marker {    
+    color: #6e3b01;
+}
+
+.img-container {
+	text-align: center;
+}
+
+.img {
+	height: auto;
+	max-width: 604px;
+	width: 100%;
+}
+
+table {
+  border-spacing: 0; 
+  border:  1px solid #32016e;
+  margin: 0 auto;
+  font-size: 20px; 
+  font-weight: 600; 
+}
+
+td {
+  border:  1px solid #32016e;
+  padding: 10px 30px;
+  color: #32016e;
+}
+
+.br {
+  color: #6e3b01;
+  text-align: center;
+  font-weight: 600;
+}
+
+.black {
+	color: #000;
+	font-weight: normal;
+}
+
